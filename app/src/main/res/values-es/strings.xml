@@ -3,8 +3,14 @@
     <string name="app_name">TallerDeteccionDaltonismo</string>
     <string name="txtTitle">Test de Daltonismo</string>
     <string name="txtDescription">El objetivo de esta aplicación es presentar un test simple para determinar uno de los diferentes niveles de daltonismo. Presione el boton iniciar cuando desee realizarlo.</string>
+    <string name="txtResults">Resultados</string>
+    <string name="txtProtanomalia">Protanomalía/Protanopía (Déficit o ausencia de rojo)</string>
+    <string name="txtDeuteranomalia">Deuteranomalía/Deuteranopía (Déficit o ausencia de verde)	</string>
+    <string name="txtTritanomalia">Tritanomalía/Tritanopía (Déficit o ausencia de azul)	</string>
+    <string name="txtAcromatopsia">Acromatopsia (daltonismo total)</string>
     <string name="btnInit">Iniciar</string>
     <string name="btnNext">Siguiente</string>
+    <string name="btnBack">Volver a inicio</string>
     <string name="option_red">Rojo</string>
     <string name="option_green">Verde</string>
     <string name="option_brown">Marrón</string>

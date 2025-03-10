@@ -2,8 +2,14 @@
     <string name="app_name">TallerDeteccionDaltonismo</string>
     <string name="txtTitle">Color blindness test</string>
     <string name="txtDescription">The purpose of this application is to present a simple test to determine one of the different levels of color blindness. Press the start button when you want to perform it.</string>
+    <string name="txtResults">Results</string>
+    <string name="txtProtanomalia">Protanomaly/Protanopia (Deficiency or absence of red)</string>
+    <string name="txtDeuteranomalia">Deuteranomaly/Deuteranopia (Deficit or absence of green)</string>
+    <string name="txtTritanomalia">Tritanomaly/Tritanopia (Deficiency or absence of blue)</string>
+    <string name="txtAcromatopsia">Achromatopsia (total color blindness)</string>
     <string name="btnInit">Start</string>
     <string name="btnNext">Next</string>
+    <string name="btnBack">Back to home</string>
     <string name="option_red">Red</string>
     <string name="option_green">Green</string>
     <string name="option_brown">Brown</string>

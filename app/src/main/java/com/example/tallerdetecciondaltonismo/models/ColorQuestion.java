@@ -5,10 +5,18 @@ import java.util.List;
 public class ColorQuestion {
     private String color;
     private List<String> options;
+    private String category;
+    private String correctAnswer;
 
-    public ColorQuestion(String color, List<String> options) {
+
+    public ColorQuestion(String color,
+                         List<String> options,
+                         String category,
+                         String correctAnswer) {
         this.color = color;
         this.options = options;
+        this.category = category;
+        this.correctAnswer = correctAnswer;
     }
 
     public String getColor() {
@@ -25,5 +33,21 @@ public class ColorQuestion {
 
     public void setOptions(List<String> options) {
         this.options = options;
+    }
+
+    public String getCategory() {
+        return category;
+    }
+
+    public void setCategory(String category) {
+        this.category = category;
+    }
+
+    public String getCorrectAnswer() {
+        return correctAnswer;
+    }
+
+    public void setCorrectAnswer(String correctAnswer) {
+        this.correctAnswer = correctAnswer;
     }
 }
