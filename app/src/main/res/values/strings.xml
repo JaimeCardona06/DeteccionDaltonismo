@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TallerDeteccionDaltonismo</string>
+    <string name="txtTitle">Color blindness test</string>
+    <string name="txtDescription">The purpose of this application is to present a simple test to determine one of the different levels of color blindness. Press the start button when you want to perform it.</string>
+    <string name="btnInit">Start</string>
+    <string name="btnNext">Next</string>
+    <string name="option_red">Red</string>
+    <string name="option_green">Green</string>
+    <string name="option_brown">Brown</string>
+    <string name="option_yellow">Yellow</string>
+    <string name="option_white">White</string>
+    <string name="option_black">Black</string>
+    <string name="option_violet">Violet</string>
+    <string name="option_blue">Blue</string>
+    <string name="option_gray">Gray</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerDeteccionDaltonismo</string>
+    <string name="txtTitle">Test de Daltonismo</string>
+    <string name="txtDescription">El objetivo de esta aplicación es presentar un test simple para determinar uno de los diferentes niveles de daltonismo. Presione el boton iniciar cuando desee realizarlo.</string>
+    <string name="btnInit">Iniciar</string>
+    <string name="btnNext">Siguiente</string>
+    <string name="option_red">Rojo</string>
+    <string name="option_green">Verde</string>
+    <string name="option_brown">Marrón</string>
+    <string name="option_yellow">Amarillo</string>
+    <string name="option_white">Blanco</string>
+    <string name="option_black">Negro</string>
+    <string name="option_violet">Violeta</string>
+    <string name="option_blue">Azul</string>
+    <string name="option_gray">Gris</string>
+</resources>
